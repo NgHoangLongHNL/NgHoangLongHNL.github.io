@@ -1,0 +1,11 @@
+Package: com.hackff.allob
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: NgHoangLong
+Filename: ./Dev/com.mrlowlittlexs.deb
+Size: 35.170
+MD5sum: cf64ab99af450e4df7230ba239126fb6
+Description: Little XS fake cử chỉ cho các iphone nút home đời thấp.
+Name: LittleXS VH
+Author: Mr.Low <https://hnl04official.net>
